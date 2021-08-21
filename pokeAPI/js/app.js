@@ -9,8 +9,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
 const fetchData = async (id) => {
   try {
+    console.log(id);
+
     const res = await fetch(`https://pokeapi.co/api/v2/pokemon/${id}`);
     const data = await res.json();
+
+    console.log(data);
 
     const pokemon = {
       img: `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/${data.id}.png`,
