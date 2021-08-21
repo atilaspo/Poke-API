@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38af2ba0-617f-42ef-a3d6-f1791a798419" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../platzi_test/src/main/java/com/platzi/javatests/util/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../platzi_test/src/main/java/com/platzi/javatests/util/movies/model/Genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../platzi_test/src/main/java/com/platzi/javatests/util/movies/model/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../platzi_test/src/main/java/com/platzi/javatests/util/movies/repository/MovieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../platzi_test/src/main/java/com/platzi/javatests/util/movies/repository/MovieRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../platzi_test/src/main/java/com/platzi/javatests/util/movies/service/MovieService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../platzi_test/src/test/java/com/platzi/javatests/util/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../platzi_test/src/test/java/com/platzi/javatests/util/StringUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../platzi_test/src/test/java/com/platzi/javatests/util/movies/repository/MovieRepositoryImplIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../platzi_test/src/test/java/com/platzi/javatests/util/movies/service/MovieServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../platzi_test/src/test/resources/scripts/test-data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Git_repo/meli_bootcamp2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Exceptions/CodeDoesNotExistException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Exceptions/CodeDoesNotExistException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Exceptions/DestinationDoesNotExistException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Exceptions/DestinationDoesNotExistException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Exceptions/InvalidCreditDuesException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Exceptions/InvalidCreditDuesException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Exceptions/InvalidDebitDuesException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Exceptions/InvalidDebitDuesException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Exceptions/InvalidFlightNumberException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Exceptions/InvalidFlightNumberException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Exceptions/InvalidInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Exceptions/InvalidInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Exceptions/InvalidPeriodException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Exceptions/InvalidPeriodException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Exceptions/RoomSizeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Exceptions/RoomSizeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Models/BookingDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Models/BookingDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Models/FlightBookingDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Models/FlightBookingDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Models/FlightDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Models/FlightDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Models/FlightReservedDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Models/FlightReservedDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Models/HotelDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Models/HotelDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Models/PaymentMethodDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Models/PaymentMethodDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Models/PersonaDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Models/PersonaDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Models/ReservedDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Models/ReservedDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Repository/FlightsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Repository/FlightsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Repository/HotelsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Repository/HotelsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Repository/IFlightsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Repository/IFlightsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Repository/IHotelsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Repository/IHotelsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Service/FlightsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Service/FlightsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Service/HotelsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Service/HotelsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Service/IFlightsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Service/IFlightsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Service/IHotelsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/java/com/meli/desafio/Service/IHotelsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/resources/Hoteles.json" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo 11/desafio/src/main/resources/Hoteles.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/Dakar/src/com/company/Carrera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/Dakar/src/com/company/Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/Dakar/src/com/company/Socorrista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/Dakar/src/com/company/TipoVehiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/Dakar/src/com/company/Vehiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/Dakar/src/com/company/VehiculoComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/FigurasGeometricas/src/com/company/Circulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/FigurasGeometricas/src/com/company/FiguraGeometrica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/FigurasGeometricas/src/com/company/GeoUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/FigurasGeometricas/src/com/company/Rectangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/FigurasGeometricas/src/com/company/Triangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/SaveTheRopa/src/com/company/Guardaropa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/SaveTheRopa/src/com/company/Prenda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/holamundo2/src/main/java/com/bootcamp/holamundo2/HelloRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/inteferfaces_comparator/src/MiFactory.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/inteferfaces_comparator/src/sorters/BubbleSortImple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/inteferfaces_comparator/src/sorters/HeapSortSorterImple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/inteferfaces_comparator/src/sorters/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/inteferfaces_comparator/src/sorters/MiFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/inteferfaces_comparator/src/sorters/QuickSortImple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/inteferfaces_comparator/src/sorters/Sorter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/inteferfaces_comparator/src/sorters/Time.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/modulo4_clase2_pt1/src/ejercicios/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/modulo4_clase2_pt2/src/InvalidPasswordException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/modulo4_clase2_pt2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/modulo4_clase2_pt2/src/Password.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/modulo4_clase2_pt2/src/PasswordFuerte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/modulo4_clase2_pt2/src/PasswordIntermedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/modulo4_clase2_pt2/src/PasswordSimple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/radixSort/src/com/company/RadixSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo4/radixSort/src/com/company/StringUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/DTOS/CaloriasDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/DTOS/CaloriasDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/DTOS/ErrorDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/DTOS/ErrorDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/DTOS/IngredientesDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/DTOS/IngredientesDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/DTOS/PlatoDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/DTOS/PlatoDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/DTOS/ResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/DTOS/ResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/controller/CaloriasController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/controller/CaloriasController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/exception_handler/DefaultException_Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/exception_handler/DefaultException_Handler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/repository/CaloriasRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/repository/CaloriasRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/repository/CaloriasRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/repository/CaloriasRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/service/CalculadoraServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/calorias/src/main/java/com/meli/calorias/service/CalculadoraServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Controller/ProductsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Controller/ProductsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Exceptions/ClientAlreadyExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Exceptions/ClientAlreadyExistsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Exceptions/ClientCreationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Exceptions/ClientCreationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Exceptions/EmptyCartException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Exceptions/EmptyCartException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Exceptions/NotCustomersFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Exceptions/NotCustomersFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Exceptions/NotFoundIDException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Exceptions/NotFoundIDException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Exceptions/OutOfOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Exceptions/OutOfOptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Exceptions/OutOfStockException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Exceptions/OutOfStockException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/CartDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/CartDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/ClientDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/ClientDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/ClientListResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/ClientListResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/ClientResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/ClientResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/ProductDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/ProductDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/PurchaseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/PurchaseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/PurchaseResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/PurchaseResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/ResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/ResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/TicketDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Models/TicketDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Repository/IProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Repository/IProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Service/IProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Service/IProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/java/com/meli/desafiospring/Service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/resources/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/main/resources/products.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/test/java/com/meli/desafiospring/ProductsControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/test/java/com/meli/desafiospring/ProductsControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/test/java/com/meli/desafiospring/RepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/test/java/com/meli/desafiospring/RepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/test/java/com/meli/desafiospring/ServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/desafiospring/src/test/java/com/meli/desafiospring/ServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/diplomas/src/main/java/com/meli/diplomas/DTOS/AlumnoDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/diplomas/src/main/java/com/meli/diplomas/DTOS/AlumnoDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/diplomas/src/main/java/com/meli/diplomas/DTOS/AlumnoDTOResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/diplomas/src/main/java/com/meli/diplomas/DTOS/AlumnoDTOResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/diplomas/src/main/java/com/meli/diplomas/DTOS/MateriaDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/diplomas/src/main/java/com/meli/diplomas/DTOS/MateriaDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/diplomas/src/main/java/com/meli/diplomas/controller/DiplomasController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/diplomas/src/main/java/com/meli/diplomas/controller/DiplomasController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/edades/src/main/java/com/meli/edades/HelloRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/edades/src/main/java/com/meli/edades/HelloRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/javaPractica/src/com/company/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/javaPractica/src/com/company/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/controller/LinkTrackerRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/controller/LinkTrackerRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/exceptions/InvalidActiveMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/exceptions/InvalidActiveMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/exceptions/InvalidLinkIdException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/exceptions/InvalidLinkIdException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/exceptions/PasswordIncorrectException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/exceptions/PasswordIncorrectException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/models/LinkDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/models/LinkDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/models/ResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/models/ResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/repository/IURLRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/repository/IURLRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/repository/URLRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/repository/URLRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/services/IURLService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/services/IURLService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/services/URLService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/linktracker/src/main/java/com/meli/linktracker/services/URLService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/metroscuadrados/src/main/java/com/meli/metroscuadrados/DTOS/CasaDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/metroscuadrados/src/main/java/com/meli/metroscuadrados/DTOS/CasaDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/metroscuadrados/src/main/java/com/meli/metroscuadrados/DTOS/HabitacionesDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/metroscuadrados/src/main/java/com/meli/metroscuadrados/DTOS/HabitacionesDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/metroscuadrados/src/main/java/com/meli/metroscuadrados/DTOS/ResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/metroscuadrados/src/main/java/com/meli/metroscuadrados/DTOS/ResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/metroscuadrados/src/main/java/com/meli/metroscuadrados/controller/casaRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/metroscuadrados/src/main/java/com/meli/metroscuadrados/controller/casaRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/starwars/src/main/java/com/meli/starwars/Controller/CharacterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/starwars/src/main/java/com/meli/starwars/Controller/CharacterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/starwars/src/main/java/com/meli/starwars/Models/CharacterDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/starwars/src/main/java/com/meli/starwars/Models/CharacterDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/starwars/src/main/java/com/meli/starwars/Repositories/CharacterRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/starwars/src/main/java/com/meli/starwars/Repositories/CharacterRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/starwars/src/main/java/com/meli/starwars/Repositories/ICharacterRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/starwars/src/main/java/com/meli/starwars/Repositories/ICharacterRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/starwars/src/main/java/com/meli/starwars/Services/CharacterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/starwars/src/main/java/com/meli/starwars/Services/CharacterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IT Bootcamp/modulo5/starwars/src/main/java/com/meli/starwars/Services/ICharacterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IT Bootcamp/modulo5/starwars/src/main/java/com/meli/starwars/Services/ICharacterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amigosCode/springboot/src/main/java/com/cursitospring/springboot/student/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amigosCode/springboot/src/main/java/com/cursitospring/springboot/student/StudentConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amigosCode/springboot/src/main/java/com/cursitospring/springboot/student/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amigosCode/springboot/src/main/java/com/cursitospring/springboot/student/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amigosCode/springboot/src/main/java/com/cursitospring/springboot/student/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker_course/src/com/company/DBSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker_course/src/com/company/DbSingletonDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejemplojpa/src/main/java/com/bootcamp/ejemplojpa/controller/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejemplojpa/src/main/java/com/bootcamp/ejemplojpa/model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejemplojpa/src/main/java/com/bootcamp/ejemplojpa/repository/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejemplojpa/src/main/java/com/bootcamp/ejemplojpa/service/IStudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejemplojpa/src/main/java/com/bootcamp/ejemplojpa/service/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pruebitas/src/com/company/Employee.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1sUDK52lWvdWKGcMLLkdO4DOMNT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38af2ba0-617f-42ef-a3d6-f1791a798419" name="Default Changelist" comment="" />
+      <created>1620918208696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620918208696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
